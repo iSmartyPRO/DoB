@@ -12,7 +12,7 @@
 # Установка и настройка
 
 ```
-git clone https://github.com/iSmartyPro/DoB
+git clone https://github.com/iSmartyPRO/DoB.git
 cd DoB
 npm install
 ```
